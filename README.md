@@ -1,4 +1,4 @@
-RF measurements for ESP32 in the ESP-IDF 5.0 framework<br><br>
+RF measurements for ESP32 in the ESP-IDF 5.0 framework<br>
 
 RSSI_WiFi_STA_Measurement.c - Establish a Wi-Fi STA network on ESP32 and measure an RSSI<br>
 my_data.h - WiFi credentials<br>
